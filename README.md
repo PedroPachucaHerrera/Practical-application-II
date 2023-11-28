@@ -10,9 +10,9 @@ Analysis shows that the features that are more relevant to used car prices are:
 
 In contrast, our analysis shows the following features have a negative impact on the price of the car 
 
- -Fuel: this feature has the most negative impact on the price of the car
- -Age: this feature is the second largest feature with a negative impact on the car price 
- -Odometer: the feature also has a significant negative impact on the price of the car
+ - Fuel: this feature has the most negative impact on the price of the car
+ - Age: this feature is the second largest feature with a negative impact on the car price 
+ - Odometer: the feature also has a significant negative impact on the price of the car
 
 This analysis was conducted using the CRISP-DM Framework and we applied 3 regression models: linear regression, Ridge, and Lasso regression.
 Our models showed similar performance as shown below.
