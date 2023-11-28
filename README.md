@@ -4,7 +4,7 @@ This report provides recommendations to our customer on what features are more i
 for this analysis, we used a dataset from Kaggle that contained information on more than 400K used cars and used machine learning techniques we provide the below recommendations:
 Analysis shows that the features that are more relevant to used car prices are:
 
- - ! Number of cylinders: The price of the vehicle is higher when the number of cylinders is higher, and this feature is the one with a major impact on the price of the car.
+ -  Number of cylinders: The price of the vehicle is higher when the number of cylinders is higher, and this feature is the one with a major impact on the price of the car.
  -Transmission:  our analysis shows that this feature has the second-largest impact on the price of the car.
  -Model, condition, and paint color also show a positive impact on the price of the car.
 
